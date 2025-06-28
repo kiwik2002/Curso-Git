@@ -6,7 +6,7 @@ Ejercicio
 #include <time.h>
 #include <stdlib.h>
 
-
+//cambio para el curso de git
 
 int main()
 {
