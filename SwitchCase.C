@@ -2,7 +2,7 @@
 Ejercicio 1 : Dada una nota en el rango (A-F) , mostrar
 un mensaje si la nota es Muy Mal (F) , Mal (E) , Bien (D)
 Muy Bien (C) , Excelente (B) , Sobresaliente A
-
+//simulando cambios
 */
 /*Librerias*/
 #include <stdio.h>
