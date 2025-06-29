@@ -6,7 +6,7 @@ Muy Bien (C) , Excelente (B) , Sobresaliente A
 */
 /*Librerias*/
 #include <stdio.h>
-
+//cambios simulados 1
 int main()
 {
     /*Variables*/
