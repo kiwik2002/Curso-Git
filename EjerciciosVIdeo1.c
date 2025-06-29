@@ -23,6 +23,7 @@ int main()
     {
         printf("A es mayor que B");
     }
+    //SIMULO CAMBIOS
 
     /*Ejercicio 2*/
     printf("Introduzca los dos enteros y le dire si A es mayor que B");
