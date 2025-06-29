@@ -4,7 +4,7 @@ Ejercicio 2: Mostrar los numeros Pares hasta x numero
 Ejercicio 3 : Mostrar los numeros pares e impares de X serparados 
 
 */
-
+//simulando cambios
 
 /*Bibliotecas*/
 #include <stdio.h>
