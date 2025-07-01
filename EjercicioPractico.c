@@ -7,7 +7,7 @@ Ejercicio
 #include <stdlib.h>
 
 //cambio para el curso de git
-
+//SIMULO TRABAJO 
 int main()
 {
     //Variables
