@@ -2,7 +2,7 @@
 Ejercicio 1 : Dadas las edades de N personas 
 entre (0-100) sacar el promedio
 */
-
+//simulando trabajo 1
 #include <stdio.h>
  int main()
  {
