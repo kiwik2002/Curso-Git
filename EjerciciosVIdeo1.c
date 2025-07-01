@@ -8,7 +8,7 @@ cual de los dos es menor
 Ejercicio 3: Dados tres Numeros enteros A, B y C muestralos
 en orden
 ***/
-
+//cambios para mas trabajo
 #include  <stdio.h>
 int main()
 {
