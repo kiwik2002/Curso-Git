@@ -10,6 +10,7 @@ en orden
 ***/
 //simulacro para hacer stash
 
+//cambios para mas trabajo
 #include  <stdio.h>
 int main()
 {
